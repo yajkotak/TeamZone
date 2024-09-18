@@ -57,4 +57,12 @@ To set up a local development environment:
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE v2.0. See the [LICENSE](LICENSE) file for more details.
 
+## Contact
+
+If you have any questions or feedback, you can reach me through the following methods:
+
+  <a href="https://www.linkedin.com/in/yajkotak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yaj_Kotak-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
 
