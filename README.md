@@ -49,10 +49,14 @@ To set up a local development environment:
 4. Load the extension in Chrome via `chrome://extensions` in Developer Mode.
 
 ### Files
-
-- **popup.html**: Contains the basic structure for the extension's popup window.
-- **popup.css**: Styles for the UI components.
-- **popup.js**: Handles the core logic and event listeners for the buttons and form actions.
+```bash
+TeamZone/
+├── popup.css
+├── popup.html
+├── popup.js
+├── manifest.json
+└── icon.png (16,32,48,128)
+```
 
 ## License
 
