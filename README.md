@@ -41,11 +41,12 @@ To set up a local development environment:
 
 1. Clone the repository.
 2. Run the following commands to install dependencies and serve the project:
+   
     ```bash
     npm install
     npm run dev
     ```
-3. Load the extension in Chrome via `chrome://extensions` in Developer Mode.
+4. Load the extension in Chrome via `chrome://extensions` in Developer Mode.
 
 ### Files
 
