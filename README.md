@@ -55,17 +55,6 @@ To set up a local development environment:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE v2.0. See the [LICENSE](LICENSE) file for more details.
 
-## Chrome Extension Store Description
 
-**TeamZone** - The Ultimate Timezone Manager for Teams
-
-Struggling to coordinate meetings across time zones? **TeamZone** solves this problem by allowing you to manage team members and their time zones, all in a user-friendly Chrome extension. Quickly add team members, convert time, and keep track of when it's best to collaborate!
-
-**Features**:
-- Add and manage team members.
-- View current time in each member's time zone.
-- Convert between your local time and any team member's time.
-  
-Install now and stay on top of your team's availability with ease!
