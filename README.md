@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="TeamZone Logo" width="250" />
+<p align="center"><img src="logo.png" alt="TeamZone Logo" width="200" />
 <br> <!-- This adds a blank line -->
 
 # TeamZone - Manage Team Timezones Efficiently
