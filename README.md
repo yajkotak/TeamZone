@@ -50,8 +50,8 @@ To set up a local development environment:
 
 ### Files
 
-- **popup.html**: Contains the basic structure for the extension's popup window【7†source】.
-- **popup.css**: Styles for the UI components【8†source】.
+- **popup.html**: Contains the basic structure for the extension's popup window.
+- **popup.css**: Styles for the UI components.
 - **popup.js**: Handles the core logic and event listeners for the buttons and form actions.
 
 ## License
