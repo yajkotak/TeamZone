@@ -19,6 +19,7 @@ TeamZone is a simple Chrome extension designed to help teams working across diff
 <p align="center">
     <strong>Working Screenshot of Extension</strong>
 </p>
+<br> <!-- This adds a blank line -->
 
 ## Installation
 
