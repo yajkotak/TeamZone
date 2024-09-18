@@ -19,23 +19,20 @@ TeamZone is a simple Chrome extension designed to help teams working across diff
 <p align="center">
     <strong>Working Screenshot of Extension</strong>
 </p>
-<br> <!-- This adds a blank line -->
 
-## Getting Started
-
-### Installation
+## Installation
 
 1. Download the extension from the Chrome Web Store.
 2. Click the TeamZone icon in the toolbar to open the popup window.
 3. Start adding your team members by clicking the "Add Member" button.
 
-### How to Use
+## How to Use
 
 1. **Add Members**: Add a new member by entering their name and selecting their time zone.
 2. **View Members**: The main screen lists all added members with their current local time.
 3. **Convert Time**: Use the "Convert Time" tab to select a date and time to convert between time zones.
 
-### Development
+## Development
 
 To set up a local development environment:
 
@@ -48,7 +45,7 @@ To set up a local development environment:
     ```
 4. Load the extension in Chrome via `chrome://extensions` in Developer Mode.
 
-### Files
+## Files
 ```bash
 TeamZone/
 ├── popup.css
